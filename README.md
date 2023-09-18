@@ -13,5 +13,9 @@ These are colors i like:
 - green
 - cyan
 
+---
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
