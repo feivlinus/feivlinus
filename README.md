@@ -1,4 +1,4 @@
-# Welcome to my Repo
+# Welcome to my Github
 
 I am a IT Specialist at Programming and i want to improve my Web Development Skills at the Frontend field. Im doing a bootcamp course at the moment if you wonder why i got so many repos.
 
