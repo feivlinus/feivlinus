@@ -6,6 +6,7 @@ Here is a picture of a cute cat.
 
 ![cute cat](https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg)
 
+<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
 
 These are colors i like:
 
