@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-I am a IT Specialist at Programming and i want to improve my Web Development Skills at the Frontend field. Im doing a bootcamp course at the moment if you wonder why i got so many repos.
+I am a IT Specialist at Programming and i am a Fullstack Webdeveloper. 
 
 Here is a picture of a cute cat.
 
